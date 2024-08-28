@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/53a87dd3-f904-4f4c-a614-0a6491149260)
 
 ## Overview
-CANNABOT is a chat-bot designed to recommend the perfect cannabis strains based on individual patient needs. Developed as part of our Bachelor's Degree final project, CANNABOT leverages OpenAI API, Twilio integration, Python programming, and Retrieval-Augmented Generation (RAG) to deliver accurate and personalized recommendations.
+CANNABOT is a chat-bot designed to recommend the perfect cannabis strains based on individual patient needs. Developed as part of our Bachelor's Degree final project, CANNABOT leverages OpenAI API, Twilio integration, Python programming, and Retrieval-Augmented Generation (RAG) system to deliver accurate and personalized recommendations.
 
 ## Features
 * Personalized Recommendations: Using a custom dataset, CANNABOT provides tailored strain suggestions based on user input.
